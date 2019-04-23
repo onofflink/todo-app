@@ -81,17 +81,17 @@
 
             <div class="content">
                 <div class="title m-b-md">
-                    Laravel
+                   ONOFFLINK
                 </div>
 
                 <div class="links">
-                    <a href="https://laravel.com/docs">Docs</a>
-                    <a href="https://laracasts.com">Laracasts</a>
+                    <a href="https://github.com/onofflink/startup/blob/markdown/readme.md">README</a>
+                    <a href="https://onofflink.co.kr">HOMEPAGE</a>
                     <a href="https://laravel-news.com">News</a>
                     <a href="https://blog.laravel.com">Blog</a>
-                    <a href="https://nova.laravel.com">Nova</a>
-                    <a href="https://forge.laravel.com">Forge</a>
-                    <a href="https://github.com/laravel/laravel">GitHub</a>
+                    <a href="https://cisco.com">CISCO</a>
+                    <a href="http://cc.onoffjoin.com/master">EVENT</a>
+                    <a href="https://github.com/onofflink">GitHub</a>
                 </div>
             </div>
         </div>
